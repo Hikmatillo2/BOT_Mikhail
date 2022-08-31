@@ -163,11 +163,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Bot token
 
-BOT_TEST_TOKEN = '5502157518:AAFdU2iAwrUvApAzHHu4kmurEbUa5qYq27A'
-BOT_TOKEN = '1052038004:AAEiyVXhqoUvXhWm43gqE3_1A4yeYQobmh4'
-
-API_TOKEN = 'perm:WW91VHJhY2tCb3Q=.NDktMQ==.bRrGqcw4xyaHS1Lfw6tZ2aOwT5qSBW'
-API_DEV_TOKEN = 'perm:RGV2VGVhbQ==.NDktMg==.BTrmqBu94mtCsEogaLUzCYMfbyuPRt'
+BOT_TEST_TOKEN = '5715779093:AAFOW_jCCja7xLx51qMPvnvqkJkq2JrrLB0'
 
 ADMINS = [['admin', 'example@example.com']]
 
