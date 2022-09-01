@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 import csv
 
-token_bot = '5715779093:AAFOW_jCCja7xLx51qMPvnvqkJkq2JrrLB0'
+token_bot = ''
 bot = telebot.TeleBot(token_bot)
 
 flag_buyed = 0
