@@ -163,12 +163,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Bot token
 
-BOT_TEST_TOKEN = '5715779093:AAFOW_jCCja7xLx51qMPvnvqkJkq2JrrLB0'
+BOT_TEST_TOKEN = ''
 
 ADMINS = [['admin', 'example@example.com']]
 
 sentry_sdk.init(
-    dsn="https://41673f050f8d483da7139d655f158d47@o1386391.ingest.sentry.io/6706712",
+    dsn="",
     integrations=[DjangoIntegration()],
 
     # Set traces_sample_rate to 1.0 to capture 100%
